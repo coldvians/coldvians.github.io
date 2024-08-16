@@ -3,7 +3,7 @@
 # HELLO! 
 ## WELCOME TO MY PAGE.
 ~~why are you here~~
-[Google Search](www.google.com)
+[Google Search](https://www.google.com/)
 
 ![Minion](https://octodex.github.com/images/minion.png)
 [x]
