@@ -6,6 +6,12 @@
 ## WELCOME TO MY PAGE.
 ~~why are you here~~
 
+
+![Minion](https://octodex.github.com/images/minion.png)
+[x]
+[ ]
+[ ]
+
 ```
 # h1 Heading 8-)
 ## h2 Heading
