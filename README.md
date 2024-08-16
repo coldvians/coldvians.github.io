@@ -2,6 +2,10 @@
 
 # Headers
 
+# HELLO! 
+## WELCOME TO MY PAGE.
+~~why are you here~~
+
 ```
 # h1 Heading 8-)
 ## h2 Heading
